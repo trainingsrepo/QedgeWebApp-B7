@@ -1,3 +1,8 @@
 UserMontlyCredReports
 DebitReports
 ...
+#Developer3
+We can develop the test scripts to validate whether the functionality is working fine or not. 
+Still, execution results matter a lot because test scripts are only understandable by technical people.
+If we talk about higher management or stakeholders or non-technical person, 
+they don't care about the technical aspects of test scripts; they only care about execution results at the end. 
